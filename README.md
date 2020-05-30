@@ -2,6 +2,6 @@
 
 I've discovered that I'm an emacs fan.
 
-I've set up some basic stuff following [this set of tutorials](https://github.com/zamansky/using-emacs) mostly.
+Started off with copy pasting bits randomly and from [this set of tutorials](https://github.com/zamansky/using-emacs).
 
-Dark theme moving towards clojure development.
+Now its about Doom and evil mode.
